@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated outputs
+outputs/
+results/
+figures/
+
+# Large datasets
+data/raw/
